@@ -1,8 +1,8 @@
 // server.js
-// where your node app starts
+//node app starts
 
-// we've started you off with Express (https://expressjs.com/) and axios (https://www.npmjs.com/package/axios)
-// but feel free to use whatever libraries or frameworks you'd like through `package.json`.
+//  started  off with Express (https://expressjs.com/) and axios (https://www.npmjs.com/package/axios)
+
 const express = require("express");
 const axios = require("axios");
 const PORT= process.env.PORT||3000;
